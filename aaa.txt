@@ -1,0 +1,66 @@
+site,x,y
+Adrar,-0.28,27.88
+Alger-Port,3.1,36.76
+Annaba,7.81,36.83
+Ain Bessam,3.53,36.31
+Aoulef,1.08,26.96 
+Arzew,-0.26,35.81
+Batna,6.18,35.75
+Borj Bou Arreridj,4.76,36.06
+Bechar,-2.23,31.5
+Bejaia,5.06,36.71
+Beni-Abbas,-2.16,30.13
+Beni-Saf,-1.35,35.3
+Biskra,5.73,34.8
+Bordj Badji Mokhtar,0.95,21.33
+Boussaada,4.2,35.33
+Chlef,1.33,36.21
+Constantine,6.61,36.28
+Djanet,9.46,24.26
+Djelfa,3.25,34.33
+El-Kala,8.45,36.9
+El-Bayadh,1,33.66
+El-Golea,2.86,30.56
+El-Kheiter,0.06,34.15
+El-Oued,6.11,33.5
+Ghardaia,3.81,32.4
+Ghazaouet,-1.86,35.1
+Ghriss,0.13 ,35.2
+Guelma, 7.46,36.46
+Hassi R'Mel,3.28,32.93
+Hassi-Massaoud,6.15,31.66
+Illizi,8.41,26.5
+In-Amenas,9.63,28.05
+In-Salah,2.46,27.23
+In Guezzam,5.76,19.56
+Jijel-Achouat,5.78,36.8
+Jijel-Port,5.78,36.1
+Khenchella,7.15 ,35.46 
+Kasr-Chellala,2.31,35.16
+Laghouat,2.93,33.76
+Maghnia,-1.78,34.81
+Mechria,-0.43,33.58
+Médea,2.75,36.28
+Milliana,2.23,36.3
+Mostaganem,0.11,35.88
+Msila,4.5,35.66
+Naama,-0.3,33.26
+Oran-Senia,-0.6,35.63
+Oran-Tafaraoui, -0.51,35.48
+Oran-Port,-0.65,35.7
+Oum-El-Bouagui,7.11,35.86
+Ourgla,5.4,31.93
+Saïda,0.15,34.86
+Sétif,5.41,36.18
+Sidi-Belabes,-0.61,35.2
+Skikda,6.95,36.88
+Souk-Ahras,7.95,36.28
+Tamanrasset,5.51,22.8
+Tamanrasset-Aguenna,5.46,22.8
+Tebessa,8.13,35.41
+Tiaret,1.43,35.35
+Timimoun,0.28,29.25
+Tindouf,-8.13,27.7
+Tizi-Ouzou,4.05,36.7
+Tlemcen-Zénata,-1.46,35.01
+Ain Safra,-0.6,32.76
