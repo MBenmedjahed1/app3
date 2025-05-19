@@ -9,7 +9,7 @@ from windrose import WindroseAxes
 import io
 
 # Configuration des données
-DATA_URL = 'https://www.dropbox.com/scl/fi/jbvta5sryx6e7hyoj42ka/aaa.txt?rlkey=vwgbhsh9rb5p4pedc2usi28v2&st=2pnzfoy2&raw=1'
+DATA_URL = 'aaa.txt'
 A = [
     "Janvier", "Février", "Mars", "Avril", "Mai", "Juin",
     "Juillet", "Août", "Septembre", "Octobre", "Novembre",
